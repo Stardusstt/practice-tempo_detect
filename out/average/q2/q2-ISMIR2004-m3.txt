@@ -1,0 +1,1 @@
+{'autocorrelation': {'P-score': 0.0, 'ALOTC-score': 0.0}, 'fourier': {'P-score': 0.0, 'ALOTC-score': 0.0}}

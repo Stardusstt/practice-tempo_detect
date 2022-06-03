@@ -1,0 +1,1 @@
+{'autocorrelation': {'P-score': 0.28571440898600503, 'ALOTC-score': 0.5322894496807541}, 'fourier': {'P-score': 0.024949551624322792, 'ALOTC-score': 0.12808658224562117}}
